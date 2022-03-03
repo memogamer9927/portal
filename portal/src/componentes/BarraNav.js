@@ -6,7 +6,7 @@ const BarraNav = () => {
     return (
         <Row id="contenedor-menu">
             <Col sm id='opcion-select'>
-                CANDIDATOS EN PROCESO
+                Candidatos en proceso
             </Col>
             <Col sm id ='opcion'>
                 CANDIDATOS Contratados
