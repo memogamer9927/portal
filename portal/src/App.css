@@ -1,0 +1,61 @@
+.montain{
+  background-color: rgba(80,77,140,1);
+  width: 100%;
+  position: absolute; z-index:-1;
+  left:0px; /*A la derecha deje un espacio de 0px*/
+  right:0px; /*A la izquierda deje un espacio de 0px*/
+  bottom:27%; /*Abajo deje un espacio de 0px*/
+  height:66%; /*alto del div*/
+  margin:0px;
+  border-radius: 0px 0px 450px 450px;
+  padding-top: 15px;
+}
+#menu{
+  background-color: #d5d3e5;
+  position: sticky; 
+  z-index: 10;
+}
+#contenedor-menu{
+  background-color: white;
+}
+#opcion-select{
+  padding-bottom: 2%;  border-bottom: solid; border-bottom-color: #ea1e2c;
+}
+#opcion{
+  padding-bottom: 2%;border-bottom: solid; border-bottom-color: black; 
+}
+h2{
+ 
+  color: white;
+}
+.mon{
+  background-color: #ea1e2c;
+}
+#contenedor-carta-tabla{
+  padding-top: 30px;
+  height: 100%;
+}
+#carta{
+  background-color: #d5d3e5;
+  width: 100%;
+  height: 100%;
+}
+#carta-tabla{
+  background-color: white;
+}
+h4{
+  color:#504d8C
+}
+#componente-paginacion{
+  padding-top: 0px;
+}
+#btn-1{
+  width: 30%; border-radius: 20%; background-color:#504d8C ;border-color: #504d8C;
+}
+#btn-2{
+  width: 30%; border-radius: 20%; background-color:white ;border-color: #504d8C; color: #504d8C;
+}
+.table-striped>tbody>tr:nth-child(odd)>td,
+.table-striped>tbody>tr:nth-child(odd)>th {
+  background-color: #d5d3e5;
+  }
