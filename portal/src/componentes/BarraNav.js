@@ -12,7 +12,7 @@ const BarraNav = () => {
                 CANDIDATOS Contratados
             </Col>
             <Col sm id ='opcion'>
-               Vacantes
+               Vacantess
             </Col>
         </Row>
     );
